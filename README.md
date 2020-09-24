@@ -15,3 +15,6 @@ cd Byh4cker-Sms
 pip install requests
 
 python3 By-Sms.py
+
+
+Yasa Dışı Kullanım Kullanıcıya Aittir. :) 
