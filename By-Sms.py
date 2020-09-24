@@ -10,17 +10,20 @@ os.system("apt-get install figlet")
 
 os.system("clear")
 
-os.system("figlet By H4cker - SMS GÖNDERME ARACI")
+os.system("figlet Byh4cker-Sms")
 
 banner = """
-         	          >Coder By H4cker<
-|> İstediğiniz telefon adresine hergün 1 defa mesaj atma hakkınız vardır!
-|> Mesajınızdaki karakter sayısı sınırlıdır.
-|> Telefon numarasını doğru girmezseniz hata vericektir.
-|> Çalıştığını kendinizde deneyebilirsiniz.
-|> Instagram = byh4cker 
+         	          
+___  _   _ _  _ ____ _  _ ____ ____ 
+|__]  \_/  |__| |    |_/  |___ |__/ 
+|__]   |   |  | |___ | \_ |___ |  \ 
+                                    
+          >>>>> Coder By H4cker <<<<<<
+
+|> Instagram = byh4cker
 |> YouTube = By H4cker
 |> Telefon = +1 (819) 800-8547
+
 """
 
 print(banner)
