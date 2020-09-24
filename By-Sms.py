@@ -1,6 +1,5 @@
 #python 3.7.1
-print("BYH4CKER SMS GÖNDERME TOOL 2020 
-INSTAGRAM = byh4cker") 
+print(ByH4cker Sms Gönderme Tool)
 import requests
 
 while True:
