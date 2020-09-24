@@ -10,8 +10,6 @@ os.system("apt-get install figlet")
 
 os.system("clear")
 
-os.system("figlet Byh4cker-Sms")
-
 banner = """
          	          
 ___  _   _ _  _ ____ _  _ ____ ____ 
@@ -22,8 +20,8 @@ ___  _   _ _  _ ____ _  _ ____ ____
 
 |> Instagram = byh4cker
 |> YouTube = By H4cker
-|> Telefon = +1 (819) 800-8547
-
+|> Phone = +1 (819) 800-8547
+|> WebSite = https://www.byh4cker.com/
 """
 
 print(banner)
@@ -32,7 +30,7 @@ sor = input("Telefon Numarası Örn:+905555555555 >>> ")
 
 mesaj = input("Mesajınız >>> ")
 
-arlk = mesaj[0:70]
+arlk = mesaj[0:100]
 
 print("\n| Mesajınızın gönderilebilecek kısmı aşağıdaki gibidir.\n"+arlk)
 
