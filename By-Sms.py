@@ -3,6 +3,8 @@
 
 import requests
 from os import system as s
+import colorama
+from colorama import Fore, Back, Style
 
 import os
 
@@ -11,6 +13,7 @@ os.system("apt-get install figlet")
 os.system("clear")
 
 banner = """
+
          	          
 _   ___       __   ____     __          
   / _ )__ __/ /  / / /____/ /_____ ____
@@ -26,6 +29,7 @@ _   ___       __   ____     __
 |> WebSite = https://www.byh4cker.com/
 """
 
+print(Fore.RED)
 print(banner)
 
 sor = input("Telefon Numarası Örn:+905555555555 >>> ")
