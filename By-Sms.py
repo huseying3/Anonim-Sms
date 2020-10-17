@@ -29,7 +29,7 @@ _   ___       __   ____     __
 |> WebSite = https://www.byh4cker.com/
 """
 
-print(Fore.RED)
+print(Fore.GREEN)
 print(banner)
 
 sor = input("Telefon Numarası Örn:+905555555555 >>> ")
