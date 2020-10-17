@@ -12,15 +12,12 @@ os.system("apt-get install figlet")
 
 os.system("clear")
 
-banner = """
-
-         	          
+banner = """       
 _   ___       __   ____     __          
   / _ )__ __/ /  / / /____/ /_____ ____
  / _  / // / _ \/_  _/ __/  '_/ -_) __/
 /____/\_, /_//_/ /_/ \__/_/\_\\__/_/   
      /___/                             
-
 >>>>> Coder By H4cker <<<<<<
 
 |> Instagram = byh4cker
@@ -28,7 +25,7 @@ _   ___       __   ____     __
 |> Phone = +1 (819) 800-8547
 |> WebSite = https://www.byh4cker.com/
 """
-print(Back.WHITE)
+print(Back.RED)
 print(Fore.GREEN)
 print(banner)
 
