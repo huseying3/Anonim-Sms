@@ -49,4 +49,3 @@ For any questions or feedback, please contact [huseyinguc621@icloud.com](mailto:
 
 ---
 
-Feel free to adjust the details like project name, repository URL, and contact information as needed!
