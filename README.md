@@ -20,7 +20,6 @@ Welcome to the Anonymous SMS Sender project! This application allows users to se
 
    ```bash
    git clone https://github.com/huseying3/Anonim-Sms.git
-   cd Anonim-Sms
    ```
 
 ## Usage
