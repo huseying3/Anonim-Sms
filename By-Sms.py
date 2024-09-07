@@ -18,11 +18,10 @@ _   ___       __   ____     __
  / _  / // / _ \/_  _/ __/  '_/ -_) __/
 /____/\_, /_//_/ /_/ \__/_/\_\\__/_/
      /___/     
->>>>> Coder By H4cker <<<<<<
+>>>>> Coder By Hüseyin <<<<<<
 
-|> Instagram = byh4cker
-|> YouTube = By H4cker
-|> WebSite = https://www.byh4cker.com/
+|> GitHub = huseying3
+
 """
 print(Fore.GREEN)
 print(banner)
